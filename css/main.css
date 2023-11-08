@@ -1,0 +1,19 @@
+.web3-banner {
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/web30banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    backdrop-filter: blur(85px);
+}
+
+p {
+    white-space: pre-wrap;
+}
+
+.block-center {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
